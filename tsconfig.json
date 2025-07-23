@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./src",
+
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
